@@ -1,7 +1,7 @@
 # Bricked_A3
 
 Alunos:
-Guilherme Otavio Manhane Coelho - RA: 125111350808
+Guilherme Otavio Manhane Coelho - 125111350808
 
 Felipe Jussek Souza - 125111369171
 
